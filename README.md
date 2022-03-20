@@ -1,1 +1,1 @@
-# Menu-
+permalink: /index.html
